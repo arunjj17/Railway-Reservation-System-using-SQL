@@ -1,4 +1,4 @@
-# Railway-Reservation-System-using-SQL
+Railway Reservation System using SQL
 
 Created a GUI for the RRS database SQL Queries. Used Python programming languages to develop a GUI interface and Sqlite3 for the data base. 
 
