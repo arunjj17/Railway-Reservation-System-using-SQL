@@ -1,0 +1,6 @@
+TrainNumber,TrainName,PremiumFair,GeneralFair,SourceStation, DestinationStation
+1,Orient Express,800,600, Paris, Istanbul
+2,Flying Scottsman,4000,3500, Edinburgh, London
+3,Golden Arrow,980,860, Victoria, Dover
+4,Golden Chariot,4300,3800, Bangalore, Goa
+5,Maharaja Express,5980,4510, Delhi, Mumbai
